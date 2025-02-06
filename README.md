@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @almoraco, a long-time wetlab biochemist learning bioinfomartics at the Spanish National Cancer Center (CNIO) in Madrid.
-- 👀 I’m interested in processing and analysing data for big biomedical cohorrts.
+- 👋 Hi, I’m Alfonso, a long-time wetlab biochemist learning bioinfomartics at the Spanish National Cancer Center (CNIO) in Madrid.
+- 👀 I’m interested in processing and analysing data for big biomedical cohorts.
 - 🌱 I’m currently learning to analyse genome sequences.
+- ...
 - <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
