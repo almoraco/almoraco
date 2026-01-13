@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alfonso, a long-time wetlab biochemist learning bioinfomartics at the Spanish National Cancer Center (CNIO) in Madrid.
 - 👀 I’m interested in processing and analysing data for big biomedical cohorts.
-- 🌱 I’m currently learning to analyse genome sequences.
+- 🌱 I’m currently learning to analyse proteomic data and NGS RNA sequencing.
 - ...
 - <!---
 - 💞️ I’m looking to collaborate on ...
